@@ -2,11 +2,11 @@
 This project provides a comprehensive analysis of a company's sales data using SQL. The goal is to extract meaningful insights from the data, which can help in making informed business decisions. The project includes various SQL queries from basic to advance that address key business questions and perform different types of analyses.
  
 - **Basic:**
-**1.** Retrieve the total number of orders placed.
-**2.** Calculate the total revenue generated from pizza sales.
-**3.** Identify the highest-priced pizza.
-**4.** Identify the most common pizza size ordered.
-**5.** List the top 5 most ordered pizza types along with their quantities.
+     **1.** Retrieve the total number of orders placed.
+     **2.** Calculate the total revenue generated from pizza sales.
+     **3.** Identify the highest-priced pizza.
+     **4.** Identify the most common pizza size ordered.
+     **5.** List the top 5 most ordered pizza types along with their quantities.
 
 
 - **Intermediate:**
